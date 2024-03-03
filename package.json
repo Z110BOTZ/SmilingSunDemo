@@ -1,0 +1,26 @@
+{
+"name": "smilingsunz110",
+"version": "1.0.0",
+"description": "This project contains a simple JavaScript code (index.js) that generates a smiling sun and draws it on an HTML canvas. The smiling sun is composed of a yellow circle representing the sun, with eyes and a smiling mouth drawn on it.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Z110BOTZ/SmilingSunDemo.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "Z110BOTZ",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
